@@ -2138,7 +2138,6 @@ ARTICLE: "sequences-combinator-implementation" "Implementing sequence combinator
 { $subsections
     collector
     collector-as
-    collector-for-as
 }
 "Creating a new sequence conditionally:"
 { $subsections
