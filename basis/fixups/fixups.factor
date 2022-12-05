@@ -50,6 +50,8 @@ CONSTANT: word-renames {
     { "map-integers" { "map-integers-as" "0.99" } }
     { "deep-subseq?" { "deep-subseq-of?" "0.99" } }
     { "overtomorrow" { "overmorrow" "0.99" } }
+    { "count" { "count-by" "0.99" } }
+    { "more?" { "deref?" "0.99" } }
 }
 
 : compute-assoc-fixups ( continuation name assoc -- seq )
