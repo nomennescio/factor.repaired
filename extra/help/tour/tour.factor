@@ -1490,11 +1490,15 @@ other languages, most arising from the fact that it has essentially no syntax:
   "It has powerful metaprogramming capabilities, exceeding even those of LISPs"
   "It is ideal for creating DSLs"
   "It integrates easily with powerful tools"
+}
 
 A few file paths in the examples may need to be adjusted based on your system.
 
 The first section gives some motivation for the peculiar model of computation of concatenative languages, but feel free 
 to skip it if you want to get your feet wet and return to it after some hands on practice with Factor.
+
+If you are viewing this online, or on the stable build of Factor, it is recommended to clone the
+latest version of factor on GitHub, and build it from source before 
 
 { $heading "The Tour" }
 { $subsections
